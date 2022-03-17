@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+}
+
+header{
+    margin-top: 20px;
+
+}
+
+.green{
+    color: rgb(12, 121, 12);
+}
+
+blockquote{
+    font-size: larger;
+    font-weight:500;
+}
